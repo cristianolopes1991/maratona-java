@@ -20,5 +20,6 @@ public class FileTest02 {
         File diretorioRenamed = new File("pasta2");
         boolean isDiretorioRenomeado = fileDiretorio.renameTo(diretorioRenamed);
         System.out.println("Diretorio pasta renomeado ? "+isDiretorioRenomeado);
+        System.out.println("Diretorio pasta renomeado ? "+isDiretorioRenomeado);
     }
 }
