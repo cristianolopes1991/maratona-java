@@ -15,6 +15,5 @@ public class MethodReferenceTest03 {
         Integer num = numStringToInteger.apply("10");
         System.out.println(num);
 
-
     }
 }
